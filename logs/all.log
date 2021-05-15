@@ -1,0 +1,1365 @@
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000[39m
+[32minfo[39m: [32mGET /v1/docs/ 304 - 5.450 ms[39m
+[32minfo[39m: [32mGET /v1/docs/swagger-ui.css 304 - 3.178 ms[39m
+[32minfo[39m: [32mGET /v1/docs/swagger-ui-bundle.js 304 - 3.124 ms[39m
+[32minfo[39m: [32mGET /v1/docs/swagger-ui-init.js 304 - 0.548 ms[39m
+[32minfo[39m: [32mGET /v1/docs/swagger-ui-standalone-preset.js 304 - 3.033 ms[39m
+[32minfo[39m: [32mGET /v1/docs/favicon-32x32.png 200 - 2.911 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000[39m
+[32minfo[39m: [32mtestGET /v1/docs/ 304 - 4.562 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui.css 304 - 2.985 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui-bundle.js 304 - 2.052 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui-init.js 304 - 0.461 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui-standalone-preset.js 304 - 2.108 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/favicon-32x32.png 200 - 1.459 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/ 304 - 0.886 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui.css 304 - 0.659 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui-init.js 304 - 0.621 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui-bundle.js 304 - 3.490 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/swagger-ui-standalone-preset.js 304 - 3.637 ms[39m
+[32minfo[39m: [32mtestGET /v1/docs/favicon-32x32.png 200 - 1.197 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Not found[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/app.js:58:8[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at initialize (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/initialize.js:53:5)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at cors (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/cors/lib/index.js:188:7)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/cors/lib/index.js:224:17[39m
+[31m    at originCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/cors/lib/index.js:214:15)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/cors/lib/index.js:219:13[39m
+[31merror[39m: [31mGET /users 404 - 13.257 ms - message: Not found[39m
+[31merror[39m: [31mError: Please authenticate[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:8:19[39m
+[31m    at allFailed (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:107:18)[39m
+[31m    at attempt (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:180:28)[39m
+[31m    at JwtStrategy.strategy.fail (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:302:9)[39m
+[31m    at JwtStrategy.authenticate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport-jwt/lib/strategy.js:96:21)[39m
+[31m    at attempt (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:366:16)[39m
+[31m    at authenticate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:367:7)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:25:107[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:24:10[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:131:14)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:131:14)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:131:14)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31merror[39m: [31mGET /v1/users 401 - 2.557 ms - message: Please authenticate[39m
+[31merror[39m: [31mError: Please authenticate[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:8:19[39m
+[31m    at allFailed (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:107:18)[39m
+[31m    at attempt (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:180:28)[39m
+[31m    at JwtStrategy.strategy.fail (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:302:9)[39m
+[31m    at JwtStrategy.authenticate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport-jwt/lib/strategy.js:96:21)[39m
+[31m    at attempt (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:366:16)[39m
+[31m    at authenticate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:367:7)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:25:107[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:24:10[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31merror[39m: [31mPOST /v1/users 401 - 1.459 ms - message: Please authenticate[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/users 201 - 684.665 ms[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 10.253 ms - message: -[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 13015.861 ms - message: -[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 12.141 ms - message: -[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Internal Server Error[39m
+[31m    at errorConverter (/home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/error.js:13:13)[39m
+[31m    at Layer.handle_error (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:71:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:315:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Layer.handle_error (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:67:12)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:315:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:127:14)[39m
+[31merror[39m: [31mPOST /v1/users 500 - 12.153 ms - message: Internal Server Error[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/users - - - ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/user.controller.js:8:16[39m
+[31merror[39m: [31mPOST /v1/users 400 - 243.615 ms - message: Email already taken[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: EIO: i/o error, write[39m
+[31m    at writeSync (fs.js:711:3)[39m
+[31m    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)[39m
+[31m    at writeOrBuffer (internal/streams/writable.js:358:12)[39m
+[31m    at SyncWriteStream.Writable.write (internal/streams/writable.js:303:10)[39m
+[31m    at Console.log (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/transports/console.js:79:23)[39m
+[31m    at Console._write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston-transport/index.js:82:19)[39m
+[31m    at doWrite (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:428:64)[39m
+[31m    at writeOrBuffer (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:417:5)[39m
+[31m    at Console.Writable.write (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/readable-stream/lib/_stream_writable.js:334:11)[39m
+[31m    at DerivedLogger.ondata (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:681:20)[39m
+[31m    at DerivedLogger.emit (events.js:327:22)[39m
+[31m    at addChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:298:12)[39m
+[31m    at readableAddChunk (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:280:11)[39m
+[31m    at DerivedLogger.Readable.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_readable.js:241:10)[39m
+[31m    at DerivedLogger.Transform.push (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/node_modules/readable-stream/lib/_stream_transform.js:139:32)[39m
+[31m    at DerivedLogger._transform (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/winston/lib/winston/logger.js:305:12)[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: queryTxt ETIMEOUT cluster0.syff2.mongodb.net[39m
+[31m    at QueryReqWrap.onresolve [as oncomplete] (dns.js:203:19)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: queryTxt ETIMEOUT cluster0.syff2.mongodb.net[39m
+[31m    at QueryReqWrap.onresolve [as oncomplete] (dns.js:203:19)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mError: queryTxt ETIMEOUT cluster0.syff2.mongodb.net[39m
+[31m    at QueryReqWrap.onresolve [as oncomplete] (dns.js:203:19)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mTypeError: Cannot read property 'user' of null[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:33:19[39m
+[31m    at allFailed (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:107:18)[39m
+[31m    at attempt (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:180:28)[39m
+[31m    at JwtStrategy.strategy.fail (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:302:9)[39m
+[31m    at JwtStrategy.authenticate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport-jwt/lib/strategy.js:96:21)[39m
+[31m    at attempt (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:366:16)[39m
+[31m    at authenticate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/authenticate.js:367:7)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:35:7[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/auth.js:26:10[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mPOST /v1/users - - - ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 12.738 ms - message: -[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 10.020 ms - message: -[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 13.144 ms - message: -[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 9.071 ms - message: -[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mSyntaxError: Unexpected token } in JSON at position 86[39m
+[31m    at JSON.parse (<anonymous>)[39m
+[31m    at parse (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/types/json.js:89:19)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/read.js:121:18[39m
+[31m    at invokeCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:224:16)[39m
+[31m    at done (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:213:7)[39m
+[31m    at IncomingMessage.onEnd (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:273:7)[39m
+[31m    at IncomingMessage.emit (events.js:327:22)[39m
+[31m    at endReadableNT (internal/streams/readable.js:1327:12)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:80:21)[39m
+[31merror[39m: [31mPOST /v1/register 400 - 11.510 ms - message: Unexpected token } in JSON at position 86[39m
+[31merror[39m: [31mError: Not found[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/app.js:58:8[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at initialize (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/passport/lib/middleware/initialize.js:53:5)[39m
+[31merror[39m: [31mPOST /v1/register 404 - 4.904 ms - message: Not found[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:6:16[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 362.883 ms - message: Email already taken[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1554.461 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:6:16[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 486.350 ms - message: Email already taken[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1278.147 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1506.167 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1069.757 ms[39m
+[31merror[39m: [31mError: "name" is not allowed[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/login 400 - 5.636 ms - message: "name" is not allowed[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 582.591 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: "refreshToken" is required[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/logout 400 - 14.140 ms - message: "refreshToken" is required[39m
+[31merror[39m: [31mError: Not found[39m
+[31m    at Object.logout (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:30:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:19:3[39m
+[31merror[39m: [31mPOST /v1/auth/logout 404 - 416.178 ms - message: Not found[39m
+[32minfo[39m: [32mPOST /v1/auth/logout 204 - 861.957 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1127.993 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 676.926 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/logout 204 - 806.057 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: "refreshToken" is required[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/logout 400 - 13.377 ms - message: "refreshToken" is required[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1166.010 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: "email" must be a valid email[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 15.853 ms - message: "email" must be a valid email[39m
+[31merror[39m: [31mValidationError: Token validation failed: blacklisted: Cast to Boolean failed for value "login" at path "blacklisted"[39m
+[31m    at model.Document.invalidate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:2703:32)[39m
+[31m    at model.$set (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:1319:12)[39m
+[31m    at model.$set (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:1023:16)[39m
+[31m    at model.Document (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:148:12)[39m
+[31m    at model.Model (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/model.js:105:12)[39m
+[31m    at new model (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/model.js:4713:15)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/model.js:3060:22[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/model.js:3096:7[39m
+[31m    at Array.forEach (<anonymous>)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/model.js:3095:15[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:1152:10)[39m
+[31m    at Function.create (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/model.js:3030:23)[39m
+[31m    at saveToken (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/token.service.js:37:32)[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 820.733 ms - message: Token validation failed: blacklisted: Cast to Boolean failed for value "login" at path "blacklisted"[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:6:16[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 621.327 ms - message: Email already taken[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1227.735 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:6:16[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 366.695 ms - message: Email already taken[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:6:16[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 395.204 ms - message: Email already taken[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email already taken[39m
+[31m    at Object.createUser (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/user.service.js:12:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:6:16[39m
+[31merror[39m: [31mPOST /v1/auth/register 400 - 591.448 ms - message: Email already taken[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1213.303 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 3561.194 ms[39m
+[31merror[39m: [31mSyntaxError: Unexpected token } in JSON at position 66[39m
+[31m    at JSON.parse (<anonymous>)[39m
+[31m    at parse (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/types/json.js:89:19)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/read.js:121:18[39m
+[31m    at invokeCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:224:16)[39m
+[31m    at done (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:213:7)[39m
+[31m    at IncomingMessage.onEnd (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:273:7)[39m
+[31m    at IncomingMessage.emit (events.js:327:22)[39m
+[31m    at endReadableNT (internal/streams/readable.js:1327:12)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:80:21)[39m
+[31merror[39m: [31mPOST /v1/auth/login 400 - 2.194 ms - message: Unexpected token } in JSON at position 66[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 866.350 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 669.453 ms[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mValidationError: Token validation failed: refreshCat: Path `refreshCat` is required.[39m
+[31m    at model.Document.invalidate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:2703:32)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:2523:17[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/schematype.js:1254:9[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:75:11)[39m
+[31merror[39m: [31mPOST /v1/auth/send-verification-email 400 - 415.096 ms - message: Token validation failed: refreshCat: Path `refreshCat` is required.[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/send-verification-email 204 - 4956.299 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1181.684 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/send-verification-email 204 - 4604.523 ms[39m
+[31merror[39m: [31mPOST /v1/auth/send-verification-email 401 - 1.393 ms - message: -[39m
+[31merror[39m: [31mSyntaxError: Unexpected token / in JSON at position 77[39m
+[31m    at JSON.parse (<anonymous>)[39m
+[31m    at parse (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/types/json.js:89:19)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/read.js:121:18[39m
+[31m    at invokeCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:224:16)[39m
+[31m    at done (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:213:7)[39m
+[31m    at IncomingMessage.onEnd (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:273:7)[39m
+[31m    at IncomingMessage.emit (events.js:327:22)[39m
+[31m    at endReadableNT (internal/streams/readable.js:1327:12)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:80:21)[39m
+[31merror[39m: [31mPOST /v1/auth/login 400 - 1.718 ms - message: Unexpected token / in JSON at position 77[39m
+[31merror[39m: [31mSyntaxError: Unexpected token / in JSON at position 76[39m
+[31m    at JSON.parse (<anonymous>)[39m
+[31m    at parse (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/types/json.js:89:19)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/body-parser/lib/read.js:121:18[39m
+[31m    at invokeCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:224:16)[39m
+[31m    at done (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:213:7)[39m
+[31m    at IncomingMessage.onEnd (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/raw-body/index.js:273:7)[39m
+[31m    at IncomingMessage.emit (events.js:327:22)[39m
+[31m    at endReadableNT (internal/streams/readable.js:1327:12)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:80:21)[39m
+[31merror[39m: [31mPOST /v1/auth/login 400 - 0.943 ms - message: Unexpected token / in JSON at position 76[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 4874.880 ms[39m
+[31merror[39m: [31mError: "token" is required[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email 400 - 4.089 ms - message: "token" is required[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:89:11)[39m
+[31m    at runMicrotasks (<anonymous>)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 300.585 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:90:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 291.085 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/send-verification-email 204 - 3240.949 ms[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:90:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 267.813 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:90:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 480.302 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 484.794 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 483.464 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjc3NjYsImV4cCI6MTYyMTA2OTU2NiwidHlwZSI6ImFjY2VzcyJ9.VoWSByczT3VhAASI6qf3mH8FupfS-TKVe-XKOBEZJyQ 401 - 491.821 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjg1NjEsImV4cCI6MTYyMTA2OTE2MSwidHlwZSI6InZlcmlmeUVtYWlsIn0.f_jIdMF5bWeycODGFqGEuySf3alJNmtH6Jov5QjkpkM 401 - 12.442 ms - message: Email verification failed[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjg1NjEsImV4cCI6MTYyMTA2OTE2MSwidHlwZSI6InZlcmlmeUVtYWlsIn0.f_jIdMF5bWeycODGFqGEuySf3alJNmtH6Jov5QjkpkM 401 - 4.389 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjg1NjEsImV4cCI6MTYyMTA2OTE2MSwidHlwZSI6InZlcmlmeUVtYWlsIn0.f_jIdMF5bWeycODGFqGEuySf3alJNmtH6Jov5QjkpkM 401 - 21.169 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjg1NjEsImV4cCI6MTYyMTA2OTE2MSwidHlwZSI6InZlcmlmeUVtYWlsIn0.f_jIdMF5bWeycODGFqGEuySf3alJNmtH6Jov5QjkpkM 401 - 11.599 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjg1NjEsImV4cCI6MTYyMTA2OTE2MSwidHlwZSI6InZlcmlmeUVtYWlsIn0.f_jIdMF5bWeycODGFqGEuySf3alJNmtH6Jov5QjkpkM 401 - 20.457 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mMongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+[31m    at NativeConnection.Connection.openUri (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/connection.js:839:32)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:348:10[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:1152:10)[39m
+[31m    at Mongoose.connect (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:347:20)[39m
+[31m    at Object.<anonymous> (/home/sanket/Documents/Projects/node-express-boilerplate/src/index.js:7:10)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1063:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:928:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:769:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[31merror[39m: [31mMongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+[31m    at NativeConnection.Connection.openUri (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/connection.js:839:32)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:348:10[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/helpers/promiseOrCallback.js:30:10)[39m
+[31m    at Mongoose._promiseOrCallback (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:1152:10)[39m
+[31m    at Mongoose.connect (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/index.js:347:20)[39m
+[31m    at Object.<anonymous> (/home/sanket/Documents/Projects/node-express-boilerplate/src/index.js:7:10)[39m
+[31m    at Module._compile (internal/modules/cjs/loader.js:1063:30)[39m
+[31m    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)[39m
+[31m    at Module.load (internal/modules/cjs/loader.js:928:32)[39m
+[31m    at Function.Module._load (internal/modules/cjs/loader.js:769:14)[39m
+[31m    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)[39m
+[31m    at internal/main/run_main_module.js:17:47[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmN2UxZDIxZWQzNDM5OGNkZjMwZGMiLCJpYXQiOjE2MjEwNjg1NjEsImV4cCI6MTYyMTA2OTE2MSwidHlwZSI6InZlcmlmeUVtYWlsIn0.f_jIdMF5bWeycODGFqGEuySf3alJNmtH6Jov5QjkpkM 401 - 29.882 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/register 201 - 1172.966 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/send-verification-email 204 - 4056.576 ms[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzAxNTIsImV4cCI6MTYyMTA3MDc1MiwidHlwZSI6InZlcmlmeUVtYWlsIn0.RCCZkjGO-Q5BJHB3DxnabhKySUTOYYY-oEypqHalp-E 401 - 3.722 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzAxNTIsImV4cCI6MTYyMTA3MDc1MiwidHlwZSI6InZlcmlmeUVtYWlsIn0.RCCZkjGO-Q5BJHB3DxnabhKySUTOYYY-oEypqHalp-E 401 - 12.569 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Email verification failed[39m
+[31m    at Object.verifyEmail (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:92:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:48:3[39m
+[31merror[39m: [31mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzAxNTIsImV4cCI6MTYyMTA3MDc1MiwidHlwZSI6InZlcmlmeUVtYWlsIn0.RCCZkjGO-Q5BJHB3DxnabhKySUTOYYY-oEypqHalp-E 401 - 16.019 ms - message: Email verification failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/verify-email?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzAxNTIsImV4cCI6MTYyMTA3MDc1MiwidHlwZSI6InZlcmlmeUVtYWlsIn0.RCCZkjGO-Q5BJHB3DxnabhKySUTOYYY-oEypqHalp-E 204 - 2075.507 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 1106.053 ms[39m
+[31merror[39m: [31mError: "token" is required[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/reset-password 400 - 5.317 ms - message: "token" is required[39m
+[31merror[39m: [31mError: Password reset failed[39m
+[31m    at Object.resetPassword (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:70:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:37:3[39m
+[31merror[39m: [31mPOST /v1/auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzA0NTUsImV4cCI6MTYyMTA3MjI1NSwidHlwZSI6ImFjY2VzcyJ9.XLIXIyLpdUXAKRsMpU_s24sMYGCh3IJ1kYAiBZRqUwk 401 - 814.671 ms - message: Password reset failed[39m
+[31merror[39m: [31mError: Password reset failed[39m
+[31m    at Object.resetPassword (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:70:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:37:3[39m
+[31merror[39m: [31mPOST /v1/auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzA0NTUsImV4cCI6MTYyMTA3MjI1NSwidHlwZSI6ImFjY2VzcyJ9.XLIXIyLpdUXAKRsMpU_s24sMYGCh3IJ1kYAiBZRqUwk 401 - 784.880 ms - message: Password reset failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Password reset failed[39m
+[31m    at Object.resetPassword (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:72:11)[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:93:5)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:37:3[39m
+[31merror[39m: [31mPOST /v1/auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzA0NTUsImV4cCI6MTYyMTA3MjI1NSwidHlwZSI6ImFjY2VzcyJ9.XLIXIyLpdUXAKRsMpU_s24sMYGCh3IJ1kYAiBZRqUwk 401 - 693.577 ms - message: Password reset failed[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mValidationError: Token validation failed: refreshCat: Path `refreshCat` is required.[39m
+[31m    at model.Document.invalidate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:2703:32)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/document.js:2523:17[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/mongoose/lib/schematype.js:1254:9[39m
+[31m    at processTicksAndRejections (internal/process/task_queues.js:75:11)[39m
+[31merror[39m: [31mPOST /v1/auth/forgot-password 400 - 399.289 ms - message: Token validation failed: refreshCat: Path `refreshCat` is required.[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/forgot-password 204 - 4682.475 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/forgot-password 204 - 5008.590 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/forgot-password - - - ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/forgot-password 204 - 4448.936 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mPOST /v1/auth/forgot-password 201 - 4500.506 ms[39m
+[31merror[39m: [31mError: "password" is required[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31merror[39m: [31mPOST /v1/auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzE0OTksImV4cCI6MTYyMTA3MjA5OSwidHlwZSI6InJlc2V0UGFzc3dvcmQifQ.UD3PSmn1CEJAtJwNdhbYe3OFcd1L42wCEtRgH6ZLbAk 400 - 5.651 ms - message: "password" is required[39m
+[32minfo[39m: [32mPOST /v1/auth/reset-password?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MDlmOTEyZjA0NTNmZGRmZjIyODY5MWQiLCJpYXQiOjE2MjEwNzE0OTksImV4cCI6MTYyMTA3MjA5OSwidHlwZSI6InJlc2V0UGFzc3dvcmQifQ.UD3PSmn1CEJAtJwNdhbYe3OFcd1L42wCEtRgH6ZLbAk 204 - 2752.433 ms[39m
+[32minfo[39m: [32mPOST /v1/auth/login 200 - 829.909 ms[39m
+[31merror[39m: [31mError: Incorrect email or password[39m
+[31m    at Object.loginUserWithEmailAndPassword (/home/sanket/Documents/Projects/node-express-boilerplate/src/services/auth.service.js:17:11)[39m
+[31m    at async /home/sanket/Documents/Projects/node-express-boilerplate/src/controllers/auth.controller.js:14:16[39m
+[31merror[39m: [31mPOST /v1/auth/login 401 - 344.372 ms - message: Incorrect email or password[39m
+[31merror[39m: [31mPOST /v1/users 401 - 1.440 ms - message: -[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mPOST /v1/users 401 - 10.178 ms - message: -[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Not found[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/app.js:58:8[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at Immediate.next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at Immediate._onImmediate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15)[39m
+[31m    at processImmediate (internal/timers.js:463:21)[39m
+[31merror[39m: [31mPOST /v1/users 404 - 16.502 ms - message: Not found[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Not found[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/app.js:58:8[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at Immediate.next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at Immediate._onImmediate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15)[39m
+[31m    at processImmediate (internal/timers.js:463:21)[39m
+[31merror[39m: [31mPOST /v1/users 404 - 11.871 ms - message: Not found[39m
+[31merror[39m: [31mError: Not found[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/app.js:58:8[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at Immediate.next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at Immediate._onImmediate (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15)[39m
+[31m    at processImmediate (internal/timers.js:463:21)[39m
+[31merror[39m: [31mPOST /v1/users 404 - 1.663 ms - message: Not found[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: "name" is required[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/validate.js:15:17[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/src/routes/v1/user.route.js:14:7[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:137:13)[39m
+[31m    at Route.dispatch (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:112:3)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:281:22[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Function.handle (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:174:3)[39m
+[31m    at router (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:47:12)[39m
+[31m    at Layer.handle [as handle_request] (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:95:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:317:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31merror[39m: [31mPOST /v1/users 400 - 15.839 ms - message: "name" is required[39m
+[32minfo[39m: [32mGET /v1/users - - - ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mGET /v1/users 200 - 488.041 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[33mwarn[39m: [33mUnable to connect to email server. Make sure you have configured the SMTP options in .env[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mGET /v1/users 200 - 389.109 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mGET /v1/users 200 - 517.005 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[32minfo[39m: [32mGET /v1/users 200 - 1672.189 ms[39m
+[32minfo[39m: [32mConnected to email server[39m
+[32minfo[39m: [32mConnected to MongoDB[39m
+[32minfo[39m: [32mListening to port 3000 development[39m
+[31merror[39m: [31mError: Internal Server Error[39m
+[31m    at errorConverter (/home/sanket/Documents/Projects/node-express-boilerplate/src/middlewares/error.js:13:13)[39m
+[31m    at Layer.handle_error (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:71:5)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:315:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at Layer.handle_error (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/layer.js:67:12)[39m
+[31m    at trim_prefix (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:315:13)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:284:7[39m
+[31m    at Function.process_params (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:335:12)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:275:10)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at /home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:635:15[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/index.js:260:14)[39m
+[31m    at next (/home/sanket/Documents/Projects/node-express-boilerplate/node_modules/express/lib/router/route.js:127:14)[39m
+[31merror[39m: [31mGET /v1/users 500 - 11.439 ms - message: Internal Server Error[39m
